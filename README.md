@@ -1,6 +1,8 @@
 # Relax Inc. Data Science Sample Take Home Challenge
 This is a practice take home challenge from Relax Inc.
 
+[Results](https://github.com/olsenben/relax-data-science-challenge/blob/master/relax-data-science-challenge.ipynb)
+
 The data is available as two attached CSV files:
 takehome_user_engagement. csv
 takehome_users . csv
