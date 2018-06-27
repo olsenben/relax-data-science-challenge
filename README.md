@@ -36,5 +36,3 @@ than one page), along with any summary tables, graphs, code, or queries that can
 us understand your approach. Please note any factors you considered or investigation
 you did, even if they did not pan out. Feel free to identify any further research or data
 you think would be valuable.
-
-## Begin by loading up the data and previewing it
